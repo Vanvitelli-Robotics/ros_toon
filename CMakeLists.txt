@@ -12,7 +12,7 @@ include(ExternalProject)
 ExternalProject_Add(upstream_igh_eml    # Name for custom target
 # #--Download step--------------
   GIT_REPOSITORY https://github.com/edrosten/TooN.git 
-  GIT_TAG d3685e80c5fbeeea18a61cbabc3cfa0c6cf93a3a
+  GIT_TAG TOON_3.2
   TIMEOUT 30           # Time allowed for file download operations
 # #--Configure step-------------
   CONFIGURE_COMMAND <SOURCE_DIR>/configure --prefix=<INSTALL_DIR>
