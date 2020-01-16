@@ -4,7 +4,7 @@
   <version>0.0.0</version>
   <description>Installer for the TooN library using the ROS/CATKIN infrastructure</description>
 
-  <maintainer email="amaldo@cs.uni-bremen.de">Alexis Maldonado</maintainer>
+  <maintainer email="marco.costanzo@unicampania.it">Marco Costanzo</maintainer>
   <license>BSD</license>
 
   <url type="website">https://github.com/edrosten/TooN</url>
